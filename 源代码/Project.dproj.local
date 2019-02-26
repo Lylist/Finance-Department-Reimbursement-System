@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/15 20:33:43.280.pas,C:\Users\Lylist\Documents\RAD Studio\Projects\Unit1.pas=D:\学习\数据库\作业\assignment3\system\login.pas</Transaction>
+    <Transaction>2018/12/15 20:33:43.280.dfm,C:\Users\Lylist\Documents\RAD Studio\Projects\Unit1.dfm=D:\学习\数据库\作业\assignment3\system\login.dfm</Transaction>
+    <Transaction>2018/12/15 22:19:36.707.dproj,C:\Users\Lylist\Documents\RAD Studio\Projects\Project2.dproj=D:\学习\数据库\作业\assignment3\system\Project.dproj</Transaction>
+    <Transaction>2018/12/17 17:45:19.863.pas,D:\学习\数据库\作业\assignment3\system\Unit3.pas=D:\学习\数据库\作业\assignment3\system\users.pas</Transaction>
+    <Transaction>2018/12/17 17:45:19.863.dfm,D:\学习\数据库\作业\assignment3\system\Unit3.dfm=D:\学习\数据库\作业\assignment3\system\users.dfm</Transaction>
+    <Transaction>2018/12/18 10:47:19.757.pas,D:\学习\数据库\作业\assignment3\system\Unit3.pas=D:\学习\数据库\作业\assignment3\system\admins.pas</Transaction>
+    <Transaction>2018/12/18 10:47:19.757.dfm,D:\学习\数据库\作业\assignment3\system\Unit3.dfm=D:\学习\数据库\作业\assignment3\system\admins.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="login.pas"/>
+    <File Path="login.dfm"/>
+    <File Path="res.pas"/>
+    <File Path="res.dfm"/>
+    <File Path="users.pas"/>
+    <File Path="users.dfm"/>
+    <File Path="admins.pas"/>
+    <File Path="admins.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
